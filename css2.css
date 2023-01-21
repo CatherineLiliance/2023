@@ -67,6 +67,16 @@ body{
     margin-top: 20px;
     justify-content: space-between;
 }
+.nutbam{
+    background-color: transparent;
+    cursor: pointer;
+    position: relative;
+}
+.nutbam:hover{
+    border: 1px solid rgb(240, 229, 61);
+    background: rgb(240, 229, 61);
+    transition: 1s;
+}
 .feature ul{
     display: flex;
 }
